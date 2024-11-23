@@ -9,7 +9,7 @@ import Foundation
 
 func climbingLeaderboard(ranked: [Int], player: [Int]) -> [Int] {
     var ranks: [Int] = []
-    var uniqueRanks: [Int] = Set(ranked).sorted()
+    let uniqueRanks: [Int] = Set(ranked).sorted()
     var i = 0
     let n = uniqueRanks.count
     

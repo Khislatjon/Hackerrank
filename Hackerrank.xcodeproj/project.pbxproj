@@ -12,6 +12,9 @@
 		0E38BBB02CF00FB20086C514 /* Bill Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBAF2CF00FB20086C514 /* Bill Division.swift */; };
 		0E38BBB22CF092C60086C514 /* Foming A Magic Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBB12CF092C60086C514 /* Foming A Magic Square.swift */; };
 		0E38BBB42CF095860086C514 /* Climbing the Leaderboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBB32CF095860086C514 /* Climbing the Leaderboard.swift */; };
+		0E38BBC12CF225500086C514 /* Sales by Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBC02CF225500086C514 /* Sales by Match.swift */; };
+		0E38BBC32CF226810086C514 /* Drawing Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBC22CF226810086C514 /* Drawing Book.swift */; };
+		0E38BBC52CF22AC30086C514 /* Counting Valleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E38BBC42CF22AC30086C514 /* Counting Valleys.swift */; };
 		0E9C310E2CD662B400C01D35 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9C310D2CD662B400C01D35 /* main.swift */; };
 		0E9C31152CD662D600C01D35 /* Diagonal Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9C31142CD662D600C01D35 /* Diagonal Difference.swift */; };
 		0E9C31172CD664C900C01D35 /* Staircase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E9C31162CD664C900C01D35 /* Staircase.swift */; };
@@ -44,6 +47,9 @@
 		0E38BBAF2CF00FB20086C514 /* Bill Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bill Division.swift"; sourceTree = "<group>"; };
 		0E38BBB12CF092C60086C514 /* Foming A Magic Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Foming A Magic Square.swift"; sourceTree = "<group>"; };
 		0E38BBB32CF095860086C514 /* Climbing the Leaderboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing the Leaderboard.swift"; sourceTree = "<group>"; };
+		0E38BBC02CF225500086C514 /* Sales by Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sales by Match.swift"; sourceTree = "<group>"; };
+		0E38BBC22CF226810086C514 /* Drawing Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Drawing Book.swift"; sourceTree = "<group>"; };
+		0E38BBC42CF22AC30086C514 /* Counting Valleys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Counting Valleys.swift"; sourceTree = "<group>"; };
 		0E9C310A2CD662B400C01D35 /* Hackerrank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Hackerrank; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E9C310D2CD662B400C01D35 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0E9C31142CD662D600C01D35 /* Diagonal Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diagonal Difference.swift"; sourceTree = "<group>"; };
@@ -106,6 +112,9 @@
 				0E38BBAF2CF00FB20086C514 /* Bill Division.swift */,
 				0E38BBB12CF092C60086C514 /* Foming A Magic Square.swift */,
 				0E38BBB32CF095860086C514 /* Climbing the Leaderboard.swift */,
+				0E38BBC02CF225500086C514 /* Sales by Match.swift */,
+				0E38BBC22CF226810086C514 /* Drawing Book.swift */,
+				0E38BBC42CF22AC30086C514 /* Counting Valleys.swift */,
 			);
 			path = Hackerrank;
 			sourceTree = "<group>";
@@ -169,6 +178,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E38BBAC2CF00A7E0086C514 /* Breaking the Records.swift in Sources */,
+				0E38BBC32CF226810086C514 /* Drawing Book.swift in Sources */,
 				0E9C31172CD664C900C01D35 /* Staircase.swift in Sources */,
 				0E9C311E2CD66A5100C01D35 /* Time Conversion.swift in Sources */,
 				0E9C31242CD675A300C01D35 /* Day of the Programmer.swift in Sources */,
@@ -179,10 +189,12 @@
 				0E9C312C2CD6D02B00C01D35 /* Apple and Orange.swift in Sources */,
 				0E38BBB22CF092C60086C514 /* Foming A Magic Square.swift in Sources */,
 				0E9C311A2CD667C100C01D35 /* Mini-Max Sum.swift in Sources */,
+				0E38BBC52CF22AC30086C514 /* Counting Valleys.swift in Sources */,
 				0E9C312A2CD6CE2800C01D35 /* Grading Students.swift in Sources */,
 				0E38BBB02CF00FB20086C514 /* Bill Division.swift in Sources */,
 				0E9C310E2CD662B400C01D35 /* main.swift in Sources */,
 				0E38BBAE2CF00DE60086C514 /* Subarray Division.swift in Sources */,
+				0E38BBC12CF225500086C514 /* Sales by Match.swift in Sources */,
 				0E38BBB42CF095860086C514 /* Climbing the Leaderboard.swift in Sources */,
 				0E9C311C2CD6694000C01D35 /* Birthday Cake Candles.swift in Sources */,
 			);

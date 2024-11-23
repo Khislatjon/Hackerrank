@@ -28,4 +28,6 @@ import Foundation
 //print(birthday(s: [2, 2, 1, 3, 2], d: 4, m: 2))
 //bonAppetit(bill: [3, 10, 2, 9], k: 1, b: 7)
 //print(formingMagicSquare(s: [[5,3,4],[1,5,8],[6,4,2]]))
-print(climbingLeaderboard(ranked: [100,100,50,40,40,20,10], player: [5,25,50,120]))
+//print(climbingLeaderboard(ranked: [100,100,50,40,40,20,10], player: [5,25,50,120]))
+//print(sockMerchant(n: 9, ar: [10, 20, 20, 10, 10, 30, 50, 10, 20]))
+print(countingValleys(steps: 8, path: "DDUUUUDD"))
